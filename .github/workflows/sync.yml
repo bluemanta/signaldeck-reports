@@ -4,13 +4,18 @@ on:
     - cron: '0 3 * * *' # 每天 UTC 时间 03:00（北京时间 11:00）自动运行
   workflow_dispatch: # 允许你随时手动点击运行测试
 
+# 必须要加这一段，给机器人赋予写入代码仓库的权限
+permissions:
+  contents: write
+
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0 # 必须要拉取完整历史记录才能合并
+          
       - name: Sync from upstream
         run: |
           git config user.name "github-actions[bot]"
