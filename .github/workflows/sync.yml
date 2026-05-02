@@ -1,0 +1,21 @@
+name: Sync Upstream Daily
+on:
+  schedule:
+    - cron: '0 3 * * *' # 每天 UTC 时间 03:00（北京时间 11:00）自动运行
+  workflow_dispatch: # 允许你随时手动点击运行测试
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Sync from upstream
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote add upstream https://github.com/BuilderPulse/BuilderPulse.git
+          git fetch upstream
+          git merge upstream/main --strategy-option theirs -m "chore: auto sync daily reports"
+          git push origin main
