@@ -16,11 +16,17 @@ jobs:
         with:
           fetch-depth: 0 # 必须要拉取完整历史记录才能合并
           
-      - name: Sync from upstream
+      - name: Sync from upstream (No Deletions)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git remote add upstream https://github.com/BuilderPulse/BuilderPulse.git
           git fetch upstream
-          git merge upstream/main --strategy-option theirs -m "chore: auto sync daily reports"
+          
+          # 直接把上游所有的文件强制覆盖抓取过来（相当于复制粘贴）
+          # 关键点：对于上游已经删除、但你本地有的文件，这个命令不会去动它们！
+          git checkout upstream/main -- .
+          
+          # 提交所有新增和修改的文件
+          git commit -m "chore: auto sync daily reports (keep local files)" || echo "No changes to commit"
           git push origin main
