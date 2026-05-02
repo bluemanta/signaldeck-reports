@@ -1,67 +1,61 @@
-# BuilderPulse Daily
+# BuilderPulse
 
-_What should you build today?_
-
-Daily analysis of 300+ signals from Hacker News, GitHub, Product Hunt, HuggingFace, Google Trends, and Reddit.
-
-⭐ Star · 👁 Watch · 📡 [RSS](../../commits/main.atom)
+_A daily opportunity brief for indie hackers._
+_One build idea. One reason it matters now. Sourced from 300+ live public signals._
 
 [**English**](#english) · [**中文版**](#chinese)
 
 ---
 
-## <a id="english"></a>📰 April 16, 2026
+## <a id="english"></a>💡 Today's build · May 2
 
-**Today: Google/ICE data handover triggers self-hosting surge, AI agent infrastructure war with hermes-agent & Claude managed agents, Cal.com goes closed source**
+> **build a pull-request inspector for risky AI-assistant repo text**
 
-💡 **If you had 2 hours, build a self-hosted social media scheduler deployable on a $10/month VPS for small agencies**
+**Why now:** 707 comments show repo text now changes assistant behavior, so teams need PR warnings before blocked releases or surprise usage
 
 <p align="center">
 
-[![📰 Read Today's Report](https://img.shields.io/badge/📰_Read_Today's_Report-blue?style=for-the-badge)](en/2026/2026-04-16.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-04-16.md)
-
-📖 [→ Read **today's** full report](en/2026/2026-04-16.md) · 🇨🇳 [中文版](zh/2026/2026-04-16.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-02.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-02.md)
 
 </p>
 
-### Last 7 days — what you could have built
+### Track record — 7 days of signals → builds
 
-- **[Apr 16](en/2026/2026-04-16.md)**: Agency owners bleed $400/month on scheduling tools a 2-hour build could replace
-- **[Apr 15](en/2026/2026-04-15.md)**: 611 Backblaze users can't restore their files — you could fix this in 2 hours
-- **[Apr 14](en/2026/2026-04-14.md)**: 14,317 devs starred a single CLAUDE.md file — and no one built the marketplace yet
-- **[Apr 13](en/2026/2026-04-13.md)**: 38,426 stars but no comparison article exists — who writes it first wins
+- **[May 2](en/2026/2026-05-02.md)**: 707 comments expose repo words that can reroute coding assistants
+- **[May 1](en/2026/2026-05-01.md)**: 483 comments turn Linux patching into machine-by-machine exposure work
+- **[Apr 30](en/2026/2026-04-30.md)**: 446 comments reveal repo strings can change AI coding bills
+- **[Apr 29](en/2026/2026-04-29.md)**: 620 comments make GitHub exit costs feel suddenly real
+- **[Apr 28](en/2026/2026-04-28.md)**: 432 comments turn Copilot usage into budget anxiety
+- **[Apr 27](en/2026/2026-04-27.md)**: 688 comments drag AI agent safety into production databases
+- **[Apr 26](en/2026/2026-04-26.md)**: 50% search growth makes agent wiki cleanup feel urgent
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>中文版
+## <a id="chinese"></a>💡 今日建议 · 5月2日
 
-[English Version](#english) · **中文**
+> **做一个AI助手仓库文字预警报告**
 
-### 📰 2026 年 4 月 16 日
-
-**今日: 谷歌违诺致数据交 ICE 引爆自托管浪潮、Cal.com 闭源开源许可论战、Claude managed agents 搜索量暴涨 +950%**
-
-💡 **如果你有 2 小时, 做一个面向小型代理机构的开源社交媒体多平台排程发布工具**
+**为什么是现在:** 707 条讨论说明仓库文字正在改变助手行为，今天适合做合并前预警报告
 
 <p align="center">
 
-[![📰 阅读今日报告](https://img.shields.io/badge/📰_阅读今日报告-blue?style=for-the-badge)](zh/2026/2026-04-16.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-04-16.md)
-
-📖 [→ 阅读**今日**完整报告](zh/2026/2026-04-16.md) · 🇬🇧 [English](en/2026/2026-04-16.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-02.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-02.md)
 
 </p>
 
-### 最近 7 天 — 你本可以做的事
+### 7 天命中记录 — 信号 → 可做的项目
 
-
-- **[4月16日](zh/2026/2026-04-16.md)**: 月付 $400 社媒排程被 €10 取代，谁先来
-- **[4月15日](zh/2026/2026-04-15.md)**: Backblaze暗坑曝光，611人的文件去哪了
-- **[4月14日](zh/2026/2026-04-14.md)**: 单文件14K星，Skills发现层仍是空白
-- **[4月13日](zh/2026/2026-04-13.md)**: 框架搜索涨3750%，那篇对比文谁先写
+- **[5月2日](zh/2026/2026-05-02.md)**: 707 条讨论暴露仓库文字会改变 AI 助手行为
+- **[5月1日](zh/2026/2026-05-01.md)**: 483 条讨论把 Linux 修补变成逐台机器盘点
+- **[4月30日](zh/2026/2026-04-30.md)**: 446 条讨论说明仓库字符串可能改变 AI 账单
+- **[4月29日](zh/2026/2026-04-29.md)**: 620 条讨论让 GitHub 退出成本浮出水面
+- **[4月28日](zh/2026/2026-04-28.md)**: 432 条讨论把 Copilot 支出变成预算风险
+- **[4月27日](zh/2026/2026-04-27.md)**: 688 条讨论把 AI agent 安全拉进生产数据库
+- **[4月26日](zh/2026/2026-04-26.md)**: 50% 搜索增长让 agent wiki 清理变得紧迫
 
 [完整归档 →](zh/)
 
@@ -69,6 +63,20 @@ Daily analysis of 300+ signals from Hacker News, GitHub, Product Hunt, HuggingFa
 
 ## About
 
-Sources: Hacker News · GitHub Trending · Product Hunt · HuggingFace · Google Trends · Reddit
+**Who this is for:** indie hackers and MicroSaaS founders who want one high-conviction build direction per day, not another feed to scroll.
+
+**How it works:** every day we cross-validate 300+ live public signals across Hacker News, GitHub Trending, Product Hunt, HuggingFace, Google Trends, Reddit, Indie Hackers, Lobsters, and DEV Community.
+
+**The output:** one concrete build idea, one reason it matters now, with sourced links back to the underlying signals.
+
+⭐ Star · 👁 Watch · 📡 [RSS](../../commits/main.atom)
+
+## License
+
+BuilderPulse reports and README content are licensed for non-commercial use under [CC BY-NC 4.0](LICENSE.md).
+
+Commercial use, including republishing, resale, paid newsletters, paid datasets, commercial products, or bundling BuilderPulse content into a paid service, requires prior written permission from [Liu Xiaopai](https://github.com/liuxiaopai-ai).
+
+BuilderPulse 报告内容采用 [CC BY-NC 4.0](LICENSE.md) 授权，仅限非商业使用。商业转载、售卖、付费 newsletter、数据集打包、商业产品集成等用途，请先联系刘小排获得书面授权。
 
 Built by [Liu Xiaopai (刘小排)](https://github.com/liuxiaopai-ai) · [𝕏 @bourneliu66](https://x.com/bourneliu66)
