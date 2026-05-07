@@ -7,55 +7,55 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · May 6
+## <a id="english"></a>💡 Today's build · May 7
 
-> **build a Chrome AI footprint report for school and lab admins**
+> **build a team approval ledger for AI agent purchases and deploys**
 
-**Why now:** Chrome AI downloads drew 889 comments, exposing an admin cost problem before shared machines redownload gigabytes
+**Why now:** Cloudflare agent actions drew 355 comments as agents started buying domains and deploying, making approval receipts urgent
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-06.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-06.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-07.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-07.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[May 6](en/2026/2026-05-06.md)**: Chrome AI 4 GB file drew 889 comments. Who owns the bill?
-- **[May 5](en/2026/2026-05-05.md)**: Healthcare tracking had 152 comments. Which form fields leaked?
-- **[May 4](en/2026/2026-05-04.md)**: Terminal interfaces drew 308 comments. Are your controls legible?
-- **[May 3](en/2026/2026-05-03.md)**: Copilot authorship drew 469 comments. Who really wrote the commit?
-- **[May 2](en/2026/2026-05-02.md)**: OpenClaw repo language drew 707 comments. What strings change tool behavior?
-- **[May 1](en/2026/2026-05-01.md)**: Copy Fail drew 483 comments. Which Linux hosts are exposed?
-- **[Apr 30](en/2026/2026-04-30.md)**: HERMES.md billing drew 446 comments. Which repo words change spend?
+- **[May 7](en/2026/2026-05-07.md)**: Agents buying domains drew 355 comments; who signs before deploy
+- **[May 6](en/2026/2026-05-06.md)**: Chrome 4 GB model drew 889 comments; admins need receipts
+- **[May 5](en/2026/2026-05-05.md)**: Healthcare form tracking drew 152 comments; which fields leaked
+- **[May 4](en/2026/2026-05-04.md)**: Terminal UI debate hit 386 comments; which screens exclude users
+- **[May 3](en/2026/2026-05-03.md)**: Copilot co-authoring drew 469 comments; who really authored this
+- **[May 2](en/2026/2026-05-02.md)**: OpenClaw routing drew 707 comments; which repo words cost money
+- **[May 1](en/2026/2026-05-01.md)**: Copy Fail drew 483 comments; which Linux hosts are exposed
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 5月6日
+## <a id="chinese"></a>💡 今日建议 · 5月7日
 
-> **做一个 Chrome AI 占用报告**
+> **做一个智能体购买审批账本**
 
-**为什么是现在:** 889 条讨论显示 Chrome 端侧 AI 下载已变成共享机器的管理员账单问题
+**为什么是现在:** Cloudflare 智能体动作已有 355 条讨论，说明助手开始买域名和部署，今天正适合做审批收据账本
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-06.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-06.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-07.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-07.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月6日](zh/2026/2026-05-06.md)**: Chrome 4 GB AI 文件引发 889 条讨论，谁来付账?
-- **[5月5日](zh/2026/2026-05-05.md)**: 医疗追踪有 152 条讨论，哪些表单字段泄露了?
-- **[5月4日](zh/2026/2026-05-04.md)**: 终端界面引发 308 条讨论，控制项真的可读吗?
-- **[5月3日](zh/2026/2026-05-03.md)**: Copilot 署名引发 469 条讨论，提交到底是谁写的?
-- **[5月2日](zh/2026/2026-05-02.md)**: OpenClaw 仓库词触发 707 条讨论，哪些字符串会变贵?
-- **[5月1日](zh/2026/2026-05-01.md)**: Copy Fail 引发 483 条讨论，哪些 Linux 主机已暴露?
-- **[4月30日](zh/2026/2026-04-30.md)**: HERMES.md 计费引发 446 条讨论，哪些仓库词会烧钱?
+- **[5月7日](zh/2026/2026-05-07.md)**: 智能体买域名引发 355 条讨论，谁先签字
+- **[5月6日](zh/2026/2026-05-06.md)**: Chrome 4 GB 模型引发 889 条讨论，谁付存储账单
+- **[5月5日](zh/2026/2026-05-05.md)**: 医疗表单追踪引发 152 条讨论，哪些字段外流
+- **[5月4日](zh/2026/2026-05-04.md)**: 终端界面争论达到 386 条讨论，哪些屏幕挡住用户
+- **[5月3日](zh/2026/2026-05-03.md)**: Copilot 共同署名引发 469 条讨论，谁真正写了提交
+- **[5月2日](zh/2026/2026-05-02.md)**: OpenClaw 路由引发 707 条讨论，哪些仓库词会烧额度
+- **[5月1日](zh/2026/2026-05-01.md)**: Copy Fail 引发 483 条讨论，哪些 Linux 主机暴露
 
 [完整归档 →](zh/)
 
