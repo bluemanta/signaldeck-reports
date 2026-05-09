@@ -7,55 +7,55 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · May 7
+## <a id="english"></a>💡 Today's build · May 9
 
-> **build a team approval ledger for AI agent purchases and deploys**
+> **build a browser and API ID-collision canary report**
 
-**Why now:** Cloudflare agent actions drew 355 comments as agents started buying domains and deploying, making approval receipts urgent
+**Why now:** The UUID collision thread drew 267 comments, showing teams need randomness checks before customer IDs corrupt accounts
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-07.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-07.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-09.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-09.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[May 7](en/2026/2026-05-07.md)**: Agents buying domains drew 355 comments; who signs before deploy
-- **[May 6](en/2026/2026-05-06.md)**: Chrome 4 GB model drew 889 comments; admins need receipts
-- **[May 5](en/2026/2026-05-05.md)**: Healthcare form tracking drew 152 comments; which fields leaked
-- **[May 4](en/2026/2026-05-04.md)**: Terminal UI debate hit 386 comments; which screens exclude users
-- **[May 3](en/2026/2026-05-03.md)**: Copilot co-authoring drew 469 comments; who really authored this
-- **[May 2](en/2026/2026-05-02.md)**: OpenClaw routing drew 707 comments; which repo words cost money
-- **[May 1](en/2026/2026-05-01.md)**: Copy Fail drew 483 comments; which Linux hosts are exposed
+- **[May 9](en/2026/2026-05-09.md)**: 267 comments exposed the unique-ID assumption before accounts cross wires
+- **[May 8](en/2026/2026-05-08.md)**: 535 comments turned AI slop into a moderator evidence problem
+- **[May 7](en/2026/2026-05-07.md)**: 355 comments showed agent purchases need receipts before money moves
+- **[May 6](en/2026/2026-05-06.md)**: 889 comments made Chrome's 4 GB local AI footprint impossible to ignore
+- **[May 5](en/2026/2026-05-05.md)**: 152 comments turned hidden healthcare trackers into a compliance scan
+- **[May 4](en/2026/2026-05-04.md)**: 386 comments made terminal accessibility a release-blocking report
+- **[May 3](en/2026/2026-05-03.md)**: 469 comments turned AI co-author defaults into a Git history audit
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 5月7日
+## <a id="chinese"></a>💡 今日建议 · 5月9日
 
-> **做一个智能体购买审批账本**
+> **做一个 ID 碰撞预警报告**
 
-**为什么是现在:** Cloudflare 智能体动作已有 355 条讨论，说明助手开始买域名和部署，今天正适合做审批收据账本
+**为什么是现在:** 267 条讨论说明，SaaS 团队今天需要先验证客户 ID 随机性再信任唯一性
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-07.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-07.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-09.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-09.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月7日](zh/2026/2026-05-07.md)**: 智能体买域名引发 355 条讨论，谁先签字
-- **[5月6日](zh/2026/2026-05-06.md)**: Chrome 4 GB 模型引发 889 条讨论，谁付存储账单
-- **[5月5日](zh/2026/2026-05-05.md)**: 医疗表单追踪引发 152 条讨论，哪些字段外流
-- **[5月4日](zh/2026/2026-05-04.md)**: 终端界面争论达到 386 条讨论，哪些屏幕挡住用户
-- **[5月3日](zh/2026/2026-05-03.md)**: Copilot 共同署名引发 469 条讨论，谁真正写了提交
-- **[5月2日](zh/2026/2026-05-02.md)**: OpenClaw 路由引发 707 条讨论，哪些仓库词会烧额度
-- **[5月1日](zh/2026/2026-05-01.md)**: Copy Fail 引发 483 条讨论，哪些 Linux 主机暴露
+- **[5月9日](zh/2026/2026-05-09.md)**: 267 条讨论把唯一 ID 变成上线前随机性审计
+- **[5月8日](zh/2026/2026-05-08.md)**: 535 条讨论说明 AI 垃圾内容需要发布前证据审查
+- **[5月7日](zh/2026/2026-05-07.md)**: 355 条讨论让 AI 助手购买动作必须留下收据
+- **[5月6日](zh/2026/2026-05-06.md)**: 889 条讨论把 Chrome 4 GB 本地 AI 变成管理员问题
+- **[5月5日](zh/2026/2026-05-05.md)**: 152 条讨论暴露医疗表单追踪的合规缺口
+- **[5月4日](zh/2026/2026-05-04.md)**: 386 条讨论让终端可访问性变成发布报告
+- **[5月3日](zh/2026/2026-05-03.md)**: 469 条讨论把 AI 共同作者默认项变成 Git 审计
 
 [完整归档 →](zh/)
 
