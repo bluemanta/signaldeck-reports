@@ -7,55 +7,55 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · May 11
+## <a id="english"></a>💡 Today's build · May 12
 
-> **build a cloud exit receipt for AWS migration chores**
+> **build a package-install exposure report for JavaScript app teams**
 
-**Why now:** 506 comments show small teams need AWS exit paperwork translated before migration becomes a compliance project
+**Why now:** TanStack shipped 84 malicious versions across 42 packages, turning package installs into credential-rotation work for app teams
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-11.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-11.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-12.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-12.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[May 11](en/2026/2026-05-11.md)**: 506 comments expose AWS exit paperwork nobody budgets for
-- **[May 10](en/2026/2026-05-10.md)**: 542 comments show reCAPTCHA can lock out real customers
-- **[May 9](en/2026/2026-05-09.md)**: 267 comments ask what happens when unique IDs collide
-- **[May 8](en/2026/2026-05-08.md)**: 491 comments show AI slop becoming community maintenance
-- **[May 7](en/2026/2026-05-07.md)**: 355 comments push agents from demos into spending money
-- **[May 6](en/2026/2026-05-06.md)**: 889 comments turn Chrome AI into an IT bill
-- **[May 5](en/2026/2026-05-05.md)**: 152 comments turn healthcare form tracking into launch risk
+- **[May 12](en/2026/2026-05-12.md)**: PackageBlast checks 84 malicious versions before credential panic spreads
+- **[May 11](en/2026/2026-05-11.md)**: AWS Exit Receipt turns 506 comments into lock-in evidence: what is trapped?
+- **[May 10](en/2026/2026-05-10.md)**: CaptchaReach audits sign-in failures after 542 reCAPTCHA comments: who gets blocked?
+- **[May 9](en/2026/2026-05-09.md)**: IDCollision Canary tests randomness after 267 comments: which IDs lie?
+- **[May 8](en/2026/2026-05-08.md)**: SlopFence reviews posts after 535 comments: can moderators keep up?
+- **[May 7](en/2026/2026-05-07.md)**: Agent Purchase Ledger logs risky AI actions after 355 comments: who approved?
+- **[May 6](en/2026/2026-05-06.md)**: Chrome AI Footprint Check scans 4 GB models after 889 comments: whose storage?
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 5月11日
+## <a id="chinese"></a>💡 今日建议 · 5月12日
 
-> **做一个 AWS 退出收据报告**
+> **做一个包安装暴露报告**
 
-**为什么是现在:** 506 条评论说明小团队今天需要把 AWS 账单和迁移风险翻译成退出计划
+**为什么是现在:** TanStack 42 个包的 84 个恶意版本，让应用团队今天必须查清安装暴露和凭证轮换
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-11.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-11.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-12.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-12.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月11日](zh/2026/2026-05-11.md)**: 506 条评论把 AWS 退出表格变成今天的买家清单
-- **[5月10日](zh/2026/2026-05-10.md)**: 542 条讨论显示 reCAPTCHA 可能挡住真实客户
-- **[5月9日](zh/2026/2026-05-09.md)**: 267 条讨论追问唯一 ID 碰撞后会发生什么
-- **[5月8日](zh/2026/2026-05-08.md)**: 491 条讨论显示 AI slop 正在变成社区维护
-- **[5月7日](zh/2026/2026-05-07.md)**: 355 条讨论把智能体从演示推向真实花钱
-- **[5月6日](zh/2026/2026-05-06.md)**: 889 条讨论把 Chrome AI 变成 IT 账单
-- **[5月5日](zh/2026/2026-05-05.md)**: 152 条讨论让医疗表单追踪变成上线风险
+- **[5月12日](zh/2026/2026-05-12.md)**: PackageBlast 查 42 个包的 84 个恶意版本，先轮换哪些凭证
+- **[5月11日](zh/2026/2026-05-11.md)**: AWS Exit Receipt 接住 506 条评论，哪些云服务最难退出
+- **[5月10日](zh/2026/2026-05-10.md)**: CaptchaReach Audit 对着 542 条讨论查登录，谁被误挡
+- **[5月9日](zh/2026/2026-05-09.md)**: IDCollision Canary 借 267 条讨论追问，哪些唯一 ID 不可靠
+- **[5月8日](zh/2026/2026-05-08.md)**: SlopFence Review 面对 535 条评论，版主还能先拦住什么
+- **[5月7日](zh/2026/2026-05-07.md)**: Agent Purchase Ledger 从 355 条讨论追到，AI 花钱前谁批准
+- **[5月6日](zh/2026/2026-05-06.md)**: Chrome AI Footprint Check 查 4 GB 模型，谁在吞共享存储
 
 [完整归档 →](zh/)
 
