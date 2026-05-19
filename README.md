@@ -7,55 +7,55 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · May 18
+## <a id="english"></a>💡 Today's build · May 19
 
-> **build a coding-agent search receipt**
+> **build a Project Escape Receipt for export and cancellation audits**
 
-**Why now:** Semble drew 84 comments asking whether agent code search really saves tokens and stays safe
+**Why now:** Files.md drew 293 comments because owners now fear trapped notes, chats, and design work
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-18.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-18.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-19.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-19.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[May 18](en/2026/2026-05-18.md)**: Semble drew 84 comments, and agent search suddenly needs receipts
-- **[May 17](en/2026/2026-05-17.md)**: A real UUID collision drew 342 comments; what else is assumed unique
-- **[May 16](en/2026/2026-05-16.md)**: AI rescue consulting drew 440 comments; which generated files are unsafe
-- **[May 15](en/2026/2026-05-15.md)**: 55,000 tokens and 2,000 dollars expose agent sprawl
-- **[May 14](en/2026/2026-05-14.md)**: 543 comments turned data residency into a pre-sale checklist
-- **[May 13](en/2026/2026-05-13.md)**: Needle drew 124 comments; which app commands can stay local
-- **[May 12](en/2026/2026-05-12.md)**: 84 malicious versions across 42 packages; who rotates first
+- **[May 19](en/2026/2026-05-19.md)**: Files.md drew 293 comments; can founders actually take work with them?
+- **[May 18](en/2026/2026-05-18.md)**: Semble claims 98% fewer tokens, but will agents trust the search?
+- **[May 17](en/2026/2026-05-17.md)**: A real UUID collision sparked 342 comments; what else assumes impossible?
+- **[May 16](en/2026/2026-05-16.md)**: AI rescue consulting surfaced in 440 comments; which repo breaks first?
+- **[May 15](en/2026/2026-05-15.md)**: A connector with 55,000 tokens hints at the next surprise AI bill
+- **[May 14](en/2026/2026-05-14.md)**: Europe-stack migration drew 543 comments; where does your data live?
+- **[May 13](en/2026/2026-05-13.md)**: Needle drew 124 comments; can tiny models safely press app buttons?
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 5月18日
+## <a id="chinese"></a>💡 今日建议 · 5月19日
 
-> **做一个智能体搜索收据**
+> **做一个项目导出与退订审计收据**
 
-**为什么是现在:** Semble 今天引发 84 条讨论，团队需要验证智能体代码搜索是否真省 token
+**为什么是现在:** Files.md 引发 293 条讨论，说明创始人今天最怕笔记、设计稿和聊天记录被订阅困住
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-18.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-18.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-19.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-19.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月18日](zh/2026/2026-05-18.md)**: Semble 引发 84 条讨论，智能体搜索该不该被信任
-- **[5月17日](zh/2026/2026-05-17.md)**: 一次 UUID 碰撞引发 342 条讨论，唯一性还可信吗
-- **[5月16日](zh/2026/2026-05-16.md)**: AI rescue consulting 引发 440 条讨论，哪些生成文件先修
-- **[5月15日](zh/2026/2026-05-15.md)**: 55,000 个 token 和 2,000 美元账单暴露智能体失控成本
-- **[5月14日](zh/2026/2026-05-14.md)**: 543 条讨论把数据驻留变成售前清单
-- **[5月13日](zh/2026/2026-05-13.md)**: Needle 引发 124 条讨论，哪些应用命令能留在本地
-- **[5月12日](zh/2026/2026-05-12.md)**: 42 个包的 84 个恶意版本，团队先轮换什么
+- **[5月19日](zh/2026/2026-05-19.md)**: Files.md 引发 293 条讨论，工作真的能带走吗
+- **[5月18日](zh/2026/2026-05-18.md)**: Semble 声称少用 98% token，智能体会信吗
+- **[5月17日](zh/2026/2026-05-17.md)**: 一次 UUID 碰撞引发 342 条讨论，还有哪些唯一是假设
+- **[5月16日](zh/2026/2026-05-16.md)**: AI rescue consulting 浮出 440 条讨论，哪个 repo 先爆
+- **[5月15日](zh/2026/2026-05-15.md)**: 一个连接器吃掉 55,000 token，下一张账单会是谁的
+- **[5月14日](zh/2026/2026-05-14.md)**: 欧洲技术栈迁移引发 543 条讨论，你的数据住哪
+- **[5月13日](zh/2026/2026-05-13.md)**: Needle 引发 124 条讨论，小模型能安全按按钮吗
 
 [完整归档 →](zh/)
 
