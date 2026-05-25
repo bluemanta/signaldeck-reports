@@ -7,55 +7,55 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · May 24
+## <a id="english"></a>💡 Today's build · May 25
 
-> **build a visa-change triage intake for startup teams**
+> **build a model price switchboard report**
 
-**Why now:** A green-card processing change drew 1,253 comments, showing startup teams need calm triage before counsel and travel decisions
+**Why now:** DeepSeek's permanent V4 Pro cut drew 511 comments around cost, privacy, and routing for coding teams
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-24.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-24.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-25.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-25.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[May 24](en/2026/2026-05-24.md)**: 1,253 comments turned green-card changes into startup ops risk, who is exposed?
-- **[May 23](en/2026/2026-05-23.md)**: 719 comments put AI plagiarism on site-owner receipts, who gets credit?
-- **[May 22](en/2026/2026-05-22.md)**: 319 comments rejected AI reply sludge, who owns the ask?
-- **[May 21](en/2026/2026-05-21.md)**: 3,800 repositories made editor extensions a security budget item, who can read?
-- **[May 20](en/2026/2026-05-20.md)**: 317 packages and 637 malicious versions hit assistant hooks, what persists?
-- **[May 19](en/2026/2026-05-19.md)**: 293 comments made export risk visible, what can leave?
-- **[May 18](en/2026/2026-05-18.md)**: Semble promised 98% fewer tokens, but will agents trust it?
+- **[May 25](en/2026/2026-05-25.md)**: DeepSeek pricing drew 511 comments; routing choices got uncomfortable
+- **[May 24](en/2026/2026-05-24.md)**: Green-card change drew 1,253 comments; startup ops suddenly got personal
+- **[May 23](en/2026/2026-05-23.md)**: AI plagiarism drew 719 comments; source credit became operational
+- **[May 22](en/2026/2026-05-22.md)**: AI reply sludge drew 319 comments; review time is leaking
+- **[May 21](en/2026/2026-05-21.md)**: A VS Code extension touched 3,800 repositories; trust moved upstream
+- **[May 20](en/2026/2026-05-20.md)**: npm malware hit 317 packages; assistant startup hooks are now suspect
+- **[May 19](en/2026/2026-05-19.md)**: Files.md drew 293 comments; export custody became urgent
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 5月24日
+## <a id="chinese"></a>💡 今日建议 · 5月25日
 
-> **做一个签证变化员工排查报告**
+> **做一个模型价格路由报告**
 
-**为什么是现在:** 绿卡处理变化引发 1,253 条讨论，创业团队今天需要先排查员工旅行限制和律师问题
+**为什么是现在:** DeepSeek V4 Pro 永久降价引发 511 条评论，今天正适合做编码任务路由报告
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-24.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-24.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-25.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-25.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月24日](zh/2026/2026-05-24.md)**: 1,253 条讨论把绿卡变化推到创业运营面前，谁会受影响
-- **[5月23日](zh/2026/2026-05-23.md)**: 719 条讨论追问 AI 署名，原创内容还能拿回什么
-- **[5月22日](zh/2026/2026-05-22.md)**: 319 条讨论厌倦 AI 大段回复，真正诉求在哪里
-- **[5月21日](zh/2026/2026-05-21.md)**: 3,800 个仓库受影响，编辑器扩展还能信任谁
-- **[5月20日](zh/2026/2026-05-20.md)**: 317 个 npm 包被击中，助手启动 hooks 还藏着什么
-- **[5月19日](zh/2026/2026-05-19.md)**: 293 条讨论盯上导出风险，哪些工作能带走
-- **[5月18日](zh/2026/2026-05-18.md)**: Semble 声称少用 98% token，智能体会真的信吗
+- **[5月25日](zh/2026/2026-05-25.md)**: DeepSeek 定价引发 511 条评论，模型路由开始变成账单问题
+- **[5月24日](zh/2026/2026-05-24.md)**: 绿卡新规引发 1,253 条讨论，创业团队运营突然变私人
+- **[5月23日](zh/2026/2026-05-23.md)**: AI 抄袭引发 719 条讨论，来源署名开始变成运营问题
+- **[5月22日](zh/2026/2026-05-22.md)**: AI 废话引发 319 条讨论，审核时间正在流失
+- **[5月21日](zh/2026/2026-05-21.md)**: VS Code 扩展事件影响 3,800 个仓库，编辑器信任变成预算问题
+- **[5月20日](zh/2026/2026-05-20.md)**: npm 恶意软件击中 317 个包，助手启动 hooks 开始危险
+- **[5月19日](zh/2026/2026-05-19.md)**: Files.md 引发 293 条讨论，项目导出权开始变紧急
 
 [完整归档 →](zh/)
 
